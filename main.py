@@ -1,7 +1,7 @@
 import random
 
 try:
-    print("Введите сколько камней")
+    print("Введите jdskjdf камней")
     n = int(input())
     if n in range(4, 31):
         while n > 1:
